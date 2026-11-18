@@ -1,0 +1,5 @@
+timestamp,meter_id,region,consumption_kwh
+2026-01-01 08:00,MTR_EA_001,east,12.5
+2026-01-01 08:00,MTR_WE_002,west,18.2
+2026-01-01 08:00,MTR_NO_003,north,250
+2026-01-01 08:00,MTR_SO_004,south,9.7
